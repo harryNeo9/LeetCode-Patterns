@@ -1,0 +1,2 @@
+Search success, 7 found at index 3
+Search failed, 22 not found in array!
